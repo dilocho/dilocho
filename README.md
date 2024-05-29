@@ -20,7 +20,7 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Projects
-- Pi-Hole Ad Blocker on Home network
+- <a href = "https://github.com/dilocho/Pi-Hole-Adblocker/blob/main/README.md">Pi-Hole Ad Blocker on Home network</a>
 - SOC Automation Project
 
 ## Certifications
