@@ -21,7 +21,6 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 
 ## Projects
 - <a href = "https://github.com/dilocho/Pi-Hole-Adblocker/blob/main/README.md">Pi-Hole Ad Blocker on Home network</a>
-- SOC Automation Project
 
 ## Certifications
  - ITS Network Security 
