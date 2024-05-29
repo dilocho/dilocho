@@ -6,7 +6,6 @@ An analytical and technically adept individual, I am driven to immerse myself in
 My journey in electronic engineering has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
