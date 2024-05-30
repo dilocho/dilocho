@@ -17,7 +17,16 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Network
+<div>
+ - Wireshark
+ - Cisco Packet Tracer
+</div>
+
+### SIEM
+<div>
+- Wazuh
+</div>
 
 ## Projects
 - <a href = "https://github.com/dilocho/Pi-Hole-Adblocker/blob/main/README.md">Pi-Hole Ad Blocker on Home network</a>
