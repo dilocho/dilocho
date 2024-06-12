@@ -18,15 +18,12 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 
 ## Tools
 ### Network
-<div>
- - Wireshark
- - Cisco Packet Tracer
-</div>
+- Wireshark
+- Cisco Packet Tracer
 
 ### SIEM
-<div>
 - Wazuh
-</div>
+
 
 ## Projects
 - <a href = "https://github.com/dilocho/Pi-Hole-Adblocker/blob/main/README.md">Pi-Hole Ad Blocker on Home network</a>
