@@ -10,11 +10,11 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integerity Monitoring with SIEM          | <a href="https://github.com/dilocho/File-Intergrity-Monitoring">File Integerity Monitoring</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+<!--| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| --->
 
 ## Tools
 ### Network
