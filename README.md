@@ -32,3 +32,4 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 ## Certifications
  - ITS Network Security 
  - ISC2 Certification in Cybersecurity (CC)
+ - IBM Cybersecurity Fundamentals
