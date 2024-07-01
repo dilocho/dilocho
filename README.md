@@ -27,6 +27,7 @@ My journey in electronic engineering has led me to develop a passion for cyberse
 
 ## Projects
 - <a href = "https://github.com/dilocho/Pi-Hole-Adblocker/blob/main/README.md">Pi-Hole Ad Blocker on Home network</a>
+- <a href = "https://github.com/dilocho/Keylogger/blob/main/README.md">Keylogger using Kali Linux on Windows XP</a>
 
 ## Certifications
  - ITS Network Security 
